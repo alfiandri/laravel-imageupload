@@ -953,6 +953,10 @@ Matriphe\Imageupload\ImageuploadModel Object
 * Support only [GD](https://libgd.github.io/) and [Imagick (ImageMagick)](http://php.net/manual/en/book.imagick.php), [Gmagick](http://php.net/manual/en/book.gmagick.php) is not supported anymore
 * Using exception for better error handling
 
+### Version 7.0
+
+* Add support for Laravel 6.0
+
 ### Version 5.x and 4.2.x
 
 * Last version that follow Laravel versioning
