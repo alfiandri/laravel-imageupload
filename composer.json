@@ -1,5 +1,5 @@
 {  
-  "name":"matriphe/imageupload",
+  "name":"alfiandri/imageupload",
   "description":"Upload image using Laravel's build in function and resize it automatically.",
   "keywords":[  
     "laravel",
